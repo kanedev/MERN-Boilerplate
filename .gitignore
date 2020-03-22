@@ -1,0 +1,13 @@
+/node_modules
+/dis
+.vscode
+*.log
+.DS_Store
+src/js/config/params.js
+src/js/modules/tmp
+src/js/modules/stealth.png
+src/js/modules/areyouheadless.png
+src/js/modules/whatismycountry.png
+src/js/modules/screenakrotux.png
+src/js/modules/screenLBC.png
+src/js/modules/screenFB.png
